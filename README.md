@@ -81,6 +81,7 @@ Calculated and compared AOV across regions.
 Identified customers contributing the highest sales.
 
 ## 📊 Excel Dashboard
+![Retail Sales Dashboard](dashboard.png)
 
 An Excel dashboard was created to visualize key sales metrics and business trends using:
 
